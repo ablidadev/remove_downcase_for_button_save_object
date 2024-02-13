@@ -1,0 +1,3 @@
+= remove_downcase_for_button_save_object
+
+Simple addon to remove downcase for button save object for accurate german translations
